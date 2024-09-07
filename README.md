@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I learn and I code bro
+
 <!--
 **connorHaidle/connorHaidle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
